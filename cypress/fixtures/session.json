@@ -1,0 +1,12 @@
+{
+  "cookies": [
+    {
+      "name": "session",
+      "value": "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE3NTUxMTIyMTEsImV4cCI6MTc1NzcwNDIxMSwicm9sZXMiOltdLCJ1c2VybmFtZSI6Im1hcmlhbmFnbGFkaWlAZ21haWwuY29tIn0.b9_mnTxGZXgq2u9AyQlsSPKLTeQ28p01lRiAsjUO1J8Z3tMJE-OdBXLbOkjvOTbCA9c8soYaJ7Wcw99kZUKTUKHeNX1qEKDcZI8YvxgsueOiI_eSQ-6cILHZTLE0amp7r-ccLQBDBm4e2H-kAhIKb_FpVQO1czc8BYe4Apfz2fG0YpfMSivCtkbRxEGwJtqEIs_7McDBQJnBk19Vx8Zu9BC8f2jkorOiKzFN_1vJb2PVgAEopTLyrhyB1gaPPvvfmT_VnjlT6jVuLi2S7SPXwpcswgu5wCnO0P28_uo98PVQicurSesFat1xzi7sWNt6mhY__94tiXqqnKomFAxbKJkrTlqApiplHvCmEL-dwxxE1mEFJzvnaY3SDulWzx-QCL7WdBQaBGeNBgnRgc6kEgliMViHgNCU8yWxeoO1FTeyGmR33YM1ER3BA04qBQUpKHlKpZAXL_efwtorvbFhMQ3AORDW-3kr3wa-6mnmn5MDI93KIoOwQST6ddULpuS-1TsFMHNqMkE0_1PpSVUs_gmq5ms9sq3q0IFpg6mGgObkvdNzAVbnaDrzgEhtbmcYCTBsXs0tyeRxjZqqINvI9LoBbJ-wtXAvO5X_ItEWoAo1B4yXZblwtXY6D6UNhW_6I3S0OFwPQmJ_YVisKrT8fBWaPTU9CEtreEReMEIUGq4",
+      "domain": "mysignature.io"  ,
+      "path": "/",
+      "secure": true,
+      "httpOnly": false
+    }
+  ]
+}
